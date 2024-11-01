@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Cache files
+.cache/
+
+# Logs
+*.log
+
+# Streamlit files
+.streamlit/
